@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smit Parsania</h1>
 
-<h3 align="center">I'm a skilled generalist developer possessing strong problem-solving abilities and a proven track record of designing and developing scalable systems. Most of my experience has been in design, development and maintenance of backend systems (currently working on expanding my frontend toolkit). Extremely curious (i.e. susceptible to rabbit holes ¯\_(ツ)_/¯ ) about all things that seem to interesting.</h3>
+<h3 align="center">I'm a skilled generalist developer with most of my experience in design, development and maintenance of backend systems (currently working on expanding my frontend toolkit). </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitparsania" alt="smitparsania" /> </p>
@@ -12,6 +12,9 @@
    - Senior Software Developer at [Flipkart](https://github.com/Flipkart)
 
 - 🌱 I’m currently learning **Typescript**
+
+- ![image](https://github.com/smitparsania/SmitParsania/assets/5690483/a6a4b0e6-a030-4891-959a-c3bd6c5d4d31) Extremely curious (i.e. susceptible to rabbit holes ¯\_(ツ)_/¯ ) about all things (Tech/Philosophy/Business/Life/Fitness/..) that seem interesting !!
+
 
 
 # 💻 Tech Stacks
