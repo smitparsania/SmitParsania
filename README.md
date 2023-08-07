@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Smit Parsania</h1>
 
-<h3 align="center">I'm a skilled generalist developer with most of my experience in design, development and maintenance of backend systems (currently working on expanding my frontend toolkit). </h3>
+<h3 align="center">I'm a generalist developer with most of my experience in design, development and maintenance of backend systems (currently working on expanding my frontend toolkit) </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitparsania" alt="smitparsania" /> </p>
 
-- 👨‍💻 Looking for Remote Developer roles
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🌐 Looking for Remote Developer roles
 
 - 💼 Past:
    - Co-founder & CTO at [Infilytics](www.iaudit.ai)
@@ -13,53 +15,40 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- ![image](https://github.com/smitparsania/SmitParsania/assets/5690483/a6a4b0e6-a030-4891-959a-c3bd6c5d4d31) Extremely curious (i.e. susceptible to rabbit holes ¯\_(ツ)_/¯ ) about all things (Tech/Philosophy/Business/Life/Fitness/..) that seem interesting !!
+- 🤔 Extremely curious (i.e. susceptible to rabbit holes ¯\\\_(ツ)\_/¯ ) about all things (Tech/Philosophy/Business/Life/Fitness/..) that seem interesting !!
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=red)
 
-# 💻 Tech Stacks
-<p align="left">
-  <!-- Primary Stacks -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
-          
-
-  <!-- Web Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
+- 🌐 &nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
-  <!-- CSS Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SaSS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-
-  <!-- Database --> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
-
-
-  <!-- Cloud Services -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> 
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
+- 🔧 &nbsp;
+  ![Intellij](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=intellijidea&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublimetext)
 
-  <!-- Infra/Devops -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernates" width="40" height="40" />
-          
-</p>
+- 🧰 &nbsp;
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=orange)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=smitparsania&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="smitparsania" /></p> | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitparsania&layout=compact&hide=html" alt="smitparsania" /></p> |
-| ------------- | ------------- |
+<br/>
